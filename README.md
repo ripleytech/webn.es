@@ -1,6 +1,6 @@
 ![](images/logo.png)
 
-An NES emulator for everyone
+A remixed NES emulator for fun!
 =======
 
 This fork was made to support custom ROM artwork for SOMArts 2018 The Black Woman Is God: Assembly of the Gods!
