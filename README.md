@@ -3,6 +3,8 @@
 An NES emulator for everyone
 =======
 
+This fork was made to support custom ROM artwork for SOMArts 2018 The Black Woman Is God: Assembly of the Gods!
+-Ripley
 
 <http://webn.es>
 
@@ -14,27 +16,27 @@ webNES is a web-based NES emulator for *mobile*. You can access the web app on a
 The emulator was based off of the existing JSNES (<https://github.com/bfirsh/jsnes>) library, with modifications to support the HTML5 Web Audio API. We used jQuery to build the touch interface, Local Storage and WebSQL to store the ROMs offline. It also supports the HTML5 Offline Application Cache, allowing you to use the emulator with no internet connection. It can even be added as an icon to the home screen for a full screen, immersive experience.
 
 
-<img src="https://raw2.github.com/conradev/webn.es/master/images/s1.PNG" width= "200px"/>
+<img src="https://raw2.github.com/ripleytech/webn.es/master/images/s1.PNG" width= "200px"/>
 
 Above, there is the portrait UI and Super Mario Brothers. 
 
 
-<img src="https://raw2.github.com/conradev/webn.es/master/images/s2.PNG" width= "200px"/>
+<img src="https://raw2.github.com/ripleytech/webn.es/master/images/s2.PNG" width= "200px"/>
 
 webNES menu screen
 
 
-<img src="https://raw2.github.com/conradev/webn.es/master/images/s3.PNG" width= "200px"/>
+<img src="https://raw2.github.com/ripleytech/webn.es/master/images/s3.PNG" width= "200px"/>
 
 Donkey Kong
 
 
-<img src="https://raw2.github.com/conradev/webn.es/master/images/s4.PNG" width= "200px"/>
+<img src="https://raw2.github.com/ripleytech/webn.es/master/images/s4.PNG" width= "200px"/>
 
 Importing ROMs from DropBox
 
 
-The Developers
+The OG Developers
 ========
 * Conrad Kramer [@conradev](https://github.com/conradev)
 * Jared Wright [@jawerty](https://github.com/jawerty)
